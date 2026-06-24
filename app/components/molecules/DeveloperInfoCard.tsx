@@ -4,9 +4,8 @@ export function DeveloperInfoCard() {
       <h3 className="mb-6 text-2xl font-bold">Developer Info</h3>
       <div className="space-y-4 text-zinc-300">
         <p>Name: Nikoloz Chkhikvadze</p>
-        <p>Username: ggnika1337</p>
-        <p>Role: Frontend Developer</p>
-        <p>Repositories: 44+</p>
+        <p>Username: lordken</p>
+        <p>Role: Full-Stack Web Developer</p>
       </div>
     </div>
   );

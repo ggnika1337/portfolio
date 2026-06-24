@@ -21,6 +21,12 @@ export function ProjectsSection() {
         >
           View More Projects on GitHub
         </ButtonLink>
+        <ButtonLink
+          href="https://www.linkedin.com/in/nikoloz-chkhikvadze-239253407"
+          className="rounded-2xl bg-white px-7 py-4 font-bold text-black transition hover:scale-105 ml-4"
+        >
+          My LinkedIn
+        </ButtonLink>
       </div>
     </section>
   );

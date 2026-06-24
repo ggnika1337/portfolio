@@ -27,6 +27,12 @@ export function HeroSection() {
           >
             GitHub
           </ButtonLink>
+          <ButtonLink
+            href="https://www.linkedin.com/in/nikoloz-chkhikvadze-239253407"
+            className="rounded-2xl border border-white/10 px-6 py-3 font-semibold transition hover:bg-white hover:text-black"
+          >
+            LinkedIn
+          </ButtonLink>
         </div>
       </div>
 
